@@ -21,7 +21,7 @@ public class DivisionTest {
 
 		double resultado = Division.dividir(2, 4);
 				
-		assertEquals(1.5, resultado);
+		assertEquals(0.5, resultado);
 		
 	}
 
